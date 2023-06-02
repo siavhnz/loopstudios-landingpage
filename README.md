@@ -38,6 +38,15 @@ Users should be able to:
 
 ## My process
 
+- Prepare Project (Download assets, Install Vite, Initialize git, Prepare project)
+- Create components
+  1. Identify a component
+  2. Code component
+  3. Style in mobile and desktop
+  4. Add functionality if exist
+  5. Go to step 1
+  - Layout + Header + Menu,
+
 ### Work Time
 
 - [My Clockify Report](https://app.clockify.me/shared/?)

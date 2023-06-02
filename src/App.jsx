@@ -1,10 +1,8 @@
+import LandingPage from "./pages/LandingPage"
 
 
 function App() {
-
-  return <div>
-    Loopstudios landing page
-  </div>
+  return <LandingPage />
 }
 
 export default App
