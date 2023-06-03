@@ -1,5 +1,6 @@
 import Hero from "../components/Hero";
 import Layout from "../components/layout/Layout";
+import CreationList from "../components/our-creation/List";
 
 const LandingPage = () => {
   return (
@@ -23,7 +24,7 @@ const LandingPage = () => {
             />
           </picture>
         </div>
-        <div className="px-6 text-center lg:col-start-6 lg:col-end-11 lg:row-start-2 lg:row-end-4 lg:bg-white lg:pl-20 lg:pt-20 semi-xl:pl-28 semi-xl:pt-28 lg:text-left">
+        <div className="px-6 text-center lg:col-start-6 lg:col-end-11 lg:row-start-2 lg:row-end-4 lg:bg-white lg:pl-20 lg:pt-20 lg:text-left semi-xl:pl-28 semi-xl:pt-28">
           <h2 className="mt-12 font-josefin text-[2rem] uppercase leading-none lg:mt-0 lg:text-5xl">
             The leader in interactive VR
           </h2>
@@ -35,7 +36,9 @@ const LandingPage = () => {
           </p>
         </div>
       </div>
-      <div className="mt-24"></div>
+      <div className="mt-24 semi-xl:mt-46 semi-xl:ml-auto semi-xl:mr-auto semi-xl:max-w-289">
+        <CreationList />
+      </div>
     </Layout>
   );
 };

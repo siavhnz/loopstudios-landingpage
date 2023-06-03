@@ -17,13 +17,14 @@ export default {
       },
       margin: {
         '38': '9.5rem',
+        "46": "11.5rem",
       },
       padding: {
-        "18": "4.5rem"
+        "18": "4.5rem",
       },
       maxWidth: {
         "84": "21rem",
-        "289": "72.25rem"
+        "289": "72.25rem",
       },
       screens: {
         'semi-xl': '1156px',
