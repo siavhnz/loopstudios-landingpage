@@ -37,11 +37,11 @@ Users should be able to:
 
 - Prepare Project (Download assets, Install Vite, Initialize git, Prepare project)
 - Create components
-  [1.] Identify a component
-  [2.] Code component
-  [3.] Style in mobile and desktop
-  [4.] Add functionality if exist
-  [5.] Go to step 1
+  - 1.Identify a component
+  - 2.Code component
+  - 3.Style in mobile and desktop
+  - 4.Add functionality if exist
+  - 5.Go to step 1
   - Layout, Header, Menu, Hero,
   - LandingPage, Our Creation, Footer
 
