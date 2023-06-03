@@ -1,4 +1,5 @@
 import { menu } from "../../store/menu";
+import MenuItem from "./MenuItem";
 
 const Menu = () => {
   return (
@@ -6,10 +7,7 @@ const Menu = () => {
       <ul className="gap-x-8 sm:flex">
         {menu.map((item) => {
           return (
-            <li key={item} className="group font-josefin text-white">
-              <a href="#">{item}</a>
-              <div className="ml-auto mr-auto h-[2px] w-1/2 bg-transparent transition-all duration-1000 group-hover:bg-white" />
-            </li>
+            <MenuItem menu={item} key={item} />
           );
         })}
       </ul>

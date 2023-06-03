@@ -32,6 +32,9 @@ export default {
       },
       colors: {
         "dark-gray": "hsl(0, 0%, 55%)",
+      },
+      grayscale: {
+        50: '50%',
       }
     },
   },
