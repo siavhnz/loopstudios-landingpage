@@ -11,9 +11,6 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 - [My process](#my-process)
   - [Work time](#work-time)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -28,36 +25,34 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](./screenshot/screenshot.png)
 
 ### Links
 
-- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/?)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/loopstudios-landing-page-IXFL8yVNJ7)
 
-- Live Site: [cloudflare](https://?.pages.dev/)
+- Live Site: [cloudflare](https://loopstudios-landingpage.pages.dev/)
 
 ## My process
 
 - Prepare Project (Download assets, Install Vite, Initialize git, Prepare project)
 - Create components
-  1. Identify a component
-  2. Code component
-  3. Style in mobile and desktop
-  4. Add functionality if exist
-  5. Go to step 1
-  - Layout + Header + Menu,
+  [1.] Identify a component
+  [2.] Code component
+  [3.] Style in mobile and desktop
+  [4.] Add functionality if exist
+  [5.] Go to step 1
+  - Layout, Header, Menu, Hero,
+  - LandingPage, Our Creation, Footer
 
 ### Work Time
 
-- [My Clockify Report](https://app.clockify.me/shared/?)
+- [My Clockify Report](https://app.clockify.me/shared/647b2d2c815c245a69024aca)
 
 ### Built with
 
-### What I learned
-
-### Continued development
-
-### Useful resources
+- React
+- Tailwindcss
 
 ## Author
 
